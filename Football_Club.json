@@ -1,0 +1,151 @@
+{
+  "club": [
+    {
+      "name": "Liverpool",
+      "establishment": "1892",
+      "stadium": "Alfield",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/180px-Liverpool_FC.svg.png",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Manchester City",
+      "establishment": "1880",
+      "stadium": "Etihad Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/180px-Manchester_City_FC_badge.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Leicester City",
+      "establishment": "1884",
+      "stadium": "King Power Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/180px-Leicester_City_crest.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Chelsea",
+      "establishment": "1905",
+      "stadium": "Stamford Bridge",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/180px-Chelsea_FC.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "Arsenal",
+      "establishment": "1886",
+      "stadium": "Emirates Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png"
+    },
+    {
+      "id": 6,
+      "name": "Crystal Palace",
+      "establishment": "1905",
+      "stadium": "Selhurst Park",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/170px-Crystal_Palace_FC_logo.svg.png"
+    },
+    {
+      "id": 7,
+      "name": "Tottenham Hotspur",
+      "establishment": "1882",
+      "stadium": "Tottenham Hotspur Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/130px-Tottenham_Hotspur.svg.png"
+    },
+    {
+      "id": 8,
+      "name": "Burnley",
+      "establishment": "1882",
+      "stadium": "Turf Moor",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/180px-Burnley_F.C._Logo.svg.png"
+    },
+    {
+      "id": 9,
+      "name": "Sheffield United",
+      "establishment": "1889",
+      "stadium": "Bramall Lane",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/220px-Sheffield_United_FC_logo.svg.png"
+    },
+    {
+      "id": 10,
+      "name": "Athletic Football Club Bournemouth",
+      "establishment": "1899",
+      "stadium": "Dean Court",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/170px-AFC_Bournemouth_%282013%29.svg.png"
+    },
+    {
+      "id": 11,
+      "name": "West Ham United",
+      "establishment": "1895",
+      "stadium": "London Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/185px-West_Ham_United_FC_logo.svg.png"
+    },
+    {
+      "id": 12,
+      "name": "Aston Villa",
+      "establishment": "1874",
+      "stadium": "Villa Park",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/150px-Aston_Villa_FC_crest_%282016%29.svg.png"
+    },
+    {
+      "id": 13,
+      "name": "Wolverhampton Wanderers",
+      "establishment": "1877",
+      "stadium": "Molineux Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/200px-Wolverhampton_Wanderers.svg.png"
+    },
+    {
+      "id": 14,
+      "name": "Manchester United",
+      "establishment": "1878",
+      "stadium": "Old Trafford",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/180px-Manchester_United_FC_crest.svg.png"
+    },
+    {
+      "id": 15,
+      "name": "Everton Football Club",
+      "establishment": "1878",
+      "stadium": "Goodison Park",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/220px-Everton_FC_logo.svg.png"
+    },
+    {
+      "id": 16,
+      "name": "Brighton & Hove Albion Football Club",
+      "establishment": "1901",
+      "stadium": "Amex Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/200px-Brighton_%26_Hove_Albion_logo.svg.png"
+    },
+    {
+      "id": 17,
+      "name": "Southampton Football Club",
+      "establishment": "1885",
+      "stadium": "St Mary's Stadium",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/180px-FC_Southampton.svg.png"
+    },
+    {
+      "id": 18,
+      "name": "Newcastle United",
+      "establishment": "1892",
+      "stadium": "St James' Park",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/200px-Newcastle_United_Logo.svg.png"
+    },
+    {
+      "id": 19,
+      "name": "Norwich City",
+      "establishment": "1902",
+      "stadium": "Carrow Road",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Norwich_City.svg/150px-Norwich_City.svg.png"
+    },
+    {
+      "id": 20,
+      "name": "Watford",
+      "establishment": "1898",
+      "stadium": "Vicarage Road",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/190px-Watford.svg.png"
+    },
+    {
+      "name": "Stoke City",
+      "establishment": "1863",
+      "stadium": "Britannia",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Stoke_City_FC.svg/220px-Stoke_City_FC.svg.png",
+      "id": 21
+    }
+  ]
+}
